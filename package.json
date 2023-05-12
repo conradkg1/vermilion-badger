@@ -13,7 +13,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/kitrath/pwa-text-editor.git"
+      "url": "git+https://github.com/conradkg1/crimson-rhinoceros.git"
     },
     "engines": {
       "npm": "^8.19.2",
